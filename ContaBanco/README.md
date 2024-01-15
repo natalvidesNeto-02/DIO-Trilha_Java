@@ -2,4 +2,4 @@
 ## Simulando uma Conta de Banco
 Autor 
 - Natalvides Neto
-![foto-Conta-Terminal-Banco](ContaBanco\Imagens)
+![foto-Conta-Terminal-Banco](ContaBanco\Imagens.png)
